@@ -24,4 +24,4 @@ wheels/
 .DS_Store
 
 # Misc
-package-lock.json
+/package-lock.json
