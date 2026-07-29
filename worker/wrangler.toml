@@ -1,0 +1,11 @@
+name = "creator-worker"
+main = "src/index.ts"
+compatibility_date = "2025-07-29"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "creators-db"
+database_id = ""
+
+[env.production]
+vars = { ENV = "production" }
