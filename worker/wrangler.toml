@@ -1,11 +1,14 @@
-name = "creator-worker"
+name = "datetransformer"
 main = "src/index.ts"
 compatibility_date = "2025-07-29"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "creators-db"
-database_id = ""
+database_id = "9e39d414-370d-4cf2-8c40-6d81bb56f368"
+
+[assets]
+directory = "./dist"
 
 [env.production]
 vars = { ENV = "production" }

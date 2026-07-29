@@ -8,6 +8,7 @@ data.db
 node_modules/
 worker/node_modules/
 worker/.wrangler/
+worker/dist/
 frontend/node_modules/
 frontend/dist/
 

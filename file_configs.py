@@ -158,7 +158,7 @@ FILE_CONFIGS = {
             "followers_count": "粉丝数（万）",
             "baby_age": "宝宝年龄",
         },
-        "fan_unit": "wan",
+        "fan_unit": "absolute",
     },
     "跳舞猫置换报名表1群.xlsx": {
         "header_row": 1,
@@ -172,7 +172,7 @@ FILE_CONFIGS = {
             "followers_count": "粉丝数（万）",
             "baby_age": "宝宝年龄",
         },
-        "fan_unit": "wan",
+        "fan_unit": "absolute",
     },
     "S级小火车社群置换报名表【1群】.xlsx": {
         "header_row": 1,
@@ -186,7 +186,7 @@ FILE_CONFIGS = {
             "followers_count": "粉丝数（万）",
             "baby_age": "宝宝年龄",
         },
-        "fan_unit": "wan",
+        "fan_unit": "absolute",
     },
     "S级小火车社群置换报名表【2群】.xlsx": {
         "header_row": 1,
@@ -200,7 +200,7 @@ FILE_CONFIGS = {
             "followers_count": "粉丝数（万）",
             "baby_age": "宝宝年龄",
         },
-        "fan_unit": "wan",
+        "fan_unit": "absolute",
     },
 }
 

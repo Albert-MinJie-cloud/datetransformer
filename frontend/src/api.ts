@@ -1,7 +1,5 @@
-// 开发环境通过 Vite proxy，生产环境通过 Cloudflare Worker URL
-const BASE = import.meta.env.PROD
-  ? "https://creator-worker.your-subdomain.workers.dev/api"
-  : "/api";
+// 开发环境通过 Vite proxy，生产环境同域直接访问 /api
+const BASE = "/api";
 
 export interface Creator {
   id: number;
